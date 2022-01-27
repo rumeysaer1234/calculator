@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce103-hw6-calc-app-cs", "problem1\ce103-hw6-calc-app-cs\ce103-hw6-calc-app-cs.csproj", "{1401EF03-8C3D-485A-BCEA-7D31CE357C45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "problem1", "problem1", "{D4CC7ACD-22BE-462E-98F7-7DDCA335FE25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ce103-hw6-calc-test", "problem1\ce103-hw6-calc-test\ce103-hw6-calc-test.csproj", "{76BDF00C-2C4E-498E-9074-359F637EFEFA}"
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "SetupProject1", "problem1\SetupProject1\SetupProject1.wixproj", "{4B914365-277C-4F84-9F8E-80E96918F034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetCollectorProject", "problem1\NugetCollectorProject\NugetCollectorProject.csproj", "{CD260A63-A427-4CB5-80A5-2BD52BB23056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1401EF03-8C3D-485A-BCEA-7D31CE357C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1401EF03-8C3D-485A-BCEA-7D31CE357C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1401EF03-8C3D-485A-BCEA-7D31CE357C45}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1401EF03-8C3D-485A-BCEA-7D31CE357C45}.Debug|x86.Build.0 = Debug|Any CPU
+		{1401EF03-8C3D-485A-BCEA-7D31CE357C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1401EF03-8C3D-485A-BCEA-7D31CE357C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1401EF03-8C3D-485A-BCEA-7D31CE357C45}.Release|x86.ActiveCfg = Release|Any CPU
+		{1401EF03-8C3D-485A-BCEA-7D31CE357C45}.Release|x86.Build.0 = Release|Any CPU
+		{76BDF00C-2C4E-498E-9074-359F637EFEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BDF00C-2C4E-498E-9074-359F637EFEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BDF00C-2C4E-498E-9074-359F637EFEFA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{76BDF00C-2C4E-498E-9074-359F637EFEFA}.Debug|x86.Build.0 = Debug|Any CPU
+		{76BDF00C-2C4E-498E-9074-359F637EFEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BDF00C-2C4E-498E-9074-359F637EFEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76BDF00C-2C4E-498E-9074-359F637EFEFA}.Release|x86.ActiveCfg = Release|Any CPU
+		{76BDF00C-2C4E-498E-9074-359F637EFEFA}.Release|x86.Build.0 = Release|Any CPU
+		{4B914365-277C-4F84-9F8E-80E96918F034}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4B914365-277C-4F84-9F8E-80E96918F034}.Debug|Any CPU.Build.0 = Debug|x86
+		{4B914365-277C-4F84-9F8E-80E96918F034}.Debug|x86.ActiveCfg = Debug|x86
+		{4B914365-277C-4F84-9F8E-80E96918F034}.Debug|x86.Build.0 = Debug|x86
+		{4B914365-277C-4F84-9F8E-80E96918F034}.Release|Any CPU.ActiveCfg = Release|x86
+		{4B914365-277C-4F84-9F8E-80E96918F034}.Release|Any CPU.Build.0 = Release|x86
+		{4B914365-277C-4F84-9F8E-80E96918F034}.Release|x86.ActiveCfg = Release|x86
+		{4B914365-277C-4F84-9F8E-80E96918F034}.Release|x86.Build.0 = Release|x86
+		{CD260A63-A427-4CB5-80A5-2BD52BB23056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD260A63-A427-4CB5-80A5-2BD52BB23056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD260A63-A427-4CB5-80A5-2BD52BB23056}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CD260A63-A427-4CB5-80A5-2BD52BB23056}.Debug|x86.Build.0 = Debug|Any CPU
+		{CD260A63-A427-4CB5-80A5-2BD52BB23056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD260A63-A427-4CB5-80A5-2BD52BB23056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD260A63-A427-4CB5-80A5-2BD52BB23056}.Release|x86.ActiveCfg = Release|Any CPU
+		{CD260A63-A427-4CB5-80A5-2BD52BB23056}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1401EF03-8C3D-485A-BCEA-7D31CE357C45} = {D4CC7ACD-22BE-462E-98F7-7DDCA335FE25}
+		{76BDF00C-2C4E-498E-9074-359F637EFEFA} = {D4CC7ACD-22BE-462E-98F7-7DDCA335FE25}
+		{4B914365-277C-4F84-9F8E-80E96918F034} = {D4CC7ACD-22BE-462E-98F7-7DDCA335FE25}
+		{CD260A63-A427-4CB5-80A5-2BD52BB23056} = {D4CC7ACD-22BE-462E-98F7-7DDCA335FE25}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2DAE84B-EE4E-4F62-9521-61106A49CCF4}
+	EndGlobalSection
+EndGlobal
